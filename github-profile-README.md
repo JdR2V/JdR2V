@@ -19,7 +19,7 @@
   <h1>Hey, I'm JdR2V 👋</h1>
 
   <p>
-    <strong>Full-Stack Developer</strong> · Cali, Colombia 🇨🇴 · Open to remote contracts with European companies<br/>
+    <strong>Full-Stack Developer</strong> · Cali, Colombia 🇨🇴 · Open to remote contracts<br/>
     <em>Game dev roots · Multimedia background · Building for the web</em>
   </p>
 
@@ -51,14 +51,14 @@
 
 I'm a self-taught developer based in **Cali, Colombia**, with a background in game development (Unity, Godot, Unreal Engine) and multimedia production. That combination gives me something most web developers don't have — a feel for interactive systems, 3D space, and real design instinct.
 
-Today I build **full-stack web applications** and target remote contracts with European companies. I write secure code by default (cybersecurity bootcamp + TryHackMe), I care about accessibility, and I bring genuine creative perspective to every project.
+Today I build **full-stack web applications**. I write secure code by default (cybersecurity bootcamp + TryHackMe), I care about accessibility, and I bring genuine creative perspective to every project.
 
 - 🎮 Came up through game dev — **Unity, Godot, Unreal Engine**
 - 🌐 Now building for the web with **SvelteKit, React, Node.js**
 - 🔒 Cybersecurity trained — I think about **OWASP, ISO 27001, and secure auth** from day one
 - 🎨 Multimedia production background — I have an eye for what looks and feels right
-- 🌍 Based in Colombia, working **CET-friendly hours** for European clients
-- 📬 Always open to interesting projects — reach me at **[YOUR_EMAIL]**
+- 🌍 Based in Colombia, working **CET-friendly hours** for Worldwide clients
+- 📬 Always open to interesting projects — reach me at **jdr2v57@gmail.com**
 
 ---
 
