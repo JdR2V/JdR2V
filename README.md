@@ -28,10 +28,10 @@
     <a href="[YOUR_PORTFOLIO]">
       <img src="https://img.shields.io/badge/Portfolio-0a0f1a?style=for-the-badge&logo=vercel&logoColor=60a5fa" alt="Portfolio"/>
     </a>
-    <a href="[YOUR_LINKEDIN]">
+    <a href="https://www.linkedin.com/in/juan-daniel-rubio/">
       <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:[YOUR_EMAIL]">
+    <a href="mailto:jdr2v57@gmail.com">
       <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://newcolorpalette.netlify.app/">
