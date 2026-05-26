@@ -1,18 +1,3 @@
-<!--
-  HOW TO USE THIS:
-  1. Go to github.com/new
-  2. Name the repo exactly: JdR2V  (same as your username)
-  3. Make it Public, check "Add a README file"
-  4. Replace the default content with this file
-  5. Commit — it will appear on your profile instantly
-
-  BEFORE YOU PUBLISH — replace every placeholder marked with [ ]:
-  [YOUR_EMAIL]      → your actual contact email
-  [YOUR_LINKEDIN]   → your LinkedIn profile URL
-  [YOUR_PORTFOLIO]  → your portfolio URL once it's live (yourname.github.io for now)
-  [YOUR_BLUESKY]    → already have @jdr2v.itch.io — update if changed
--->
-
 <div align="center">
 
   <!-- HEADER -->
@@ -71,7 +56,6 @@ Today I build **full-stack web applications**. I write secure code by default (c
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88ce02?style=flat-square&logo=greensock&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
@@ -105,7 +89,7 @@ Today I build **full-stack web applications**. I write secure code by default (c
 | 🌐 **[Portfolio v2](https://github.com/JdR2V/portfolio2)** | Bilingual personal portfolio with GSAP animations | React · GSAP · Vite | [→ Live](#) |
 | ✏️ **[Drawing Idea Generator](https://github.com/JdR2V/Drawing-Idea-Generator)** | Random prompts for artists and illustrators | JavaScript | [→ Live](#) |
 
-> 🚧 **Currently building:** SvelteKit portfolio (Steel palette, GSAP, Three.js) · GameLog full-stack app
+> 🚧 **Currently building:** SvelteKit portfolio (Steel palette, GSAP) · GameLog full-stack app
 
 ---
 
@@ -154,6 +138,6 @@ I write in both **Spanish and English** and am comfortable in fully remote, asyn
   <sub>
     Open to remote contracts · European companies welcome · Let's build something interesting
     <br/>
-    <a href="mailto:[YOUR_EMAIL]">[YOUR_EMAIL]</a> · <a href="[YOUR_LINKEDIN]">LinkedIn</a> · <a href="[YOUR_PORTFOLIO]">Portfolio</a>
+    <a href="mailto:jdr2v57@gmail.com">Email me!</a> · <a href="https://www.linkedin.com/in/juan-daniel-rubio/">LinkedIn</a> · <a href="https://jdr2v.github.io/portfolio/">Portfolio</a>
   </sub>
 </div>
