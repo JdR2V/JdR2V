@@ -25,7 +25,7 @@
 
   <!-- BADGES -->
   <p>
-    <a href="[YOUR_PORTFOLIO]">
+    <a href="https://jdr2v.github.io/portfolio/#work">
       <img src="https://img.shields.io/badge/Portfolio-0a0f1a?style=for-the-badge&logo=vercel&logoColor=60a5fa" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/juan-daniel-rubio/">
