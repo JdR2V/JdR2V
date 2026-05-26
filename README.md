@@ -85,7 +85,7 @@ Today I build **full-stack web applications**. I write secure code by default (c
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | 🎮 **[GameLog]** | Full-stack game backlog tracker with auth, REST API & PostgreSQL | SvelteKit · Node.js · PostgreSQL | [→ Live](#) |
-| 🎨 **[Color Palette Generator](https://github.com/JdR2V/color-palette-generator)** | Generate, save and export color palettes · EN/ES | React · Vite · CSS | [→ Live](https://newcolorpalette.netlify.app/) |
+| 🎨 **[Color Palette Generator](https://github.com/JdR2V/color-palette-generator)** | Generate, save and export color palettes · EN/ES | React · Vite · CSS | [→ Live](https://jdr2v.github.io/color-palette-generator) |
 | 🌐 **[Portfolio v2](https://github.com/JdR2V/portfolio2)** | Bilingual personal portfolio with GSAP animations | React · GSAP · Vite | [→ Live](#) |
 | ✏️ **[Drawing Idea Generator](https://github.com/JdR2V/Drawing-Idea-Generator)** | Random prompts for artists and illustrators | JavaScript | [→ Live](#) |
 
