@@ -60,13 +60,17 @@ Today I build **full-stack web applications**. I write secure code by default (c
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
 
 **Tools & other**
 
@@ -84,12 +88,11 @@ Today I build **full-stack web applications**. I write secure code by default (c
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| 🎮 **[GameLog]** | Full-stack game backlog tracker with auth, REST API & PostgreSQL | SvelteKit · Node.js · PostgreSQL | [→ Live](#) |
 | 🎨 **[Color Palette Generator](https://github.com/JdR2V/color-palette-generator)** | Generate, save and export color palettes · EN/ES | React · Vite · CSS | [→ Live](https://jdr2v.github.io/color-palette-generator) |
 | 🌐 **[Portfolio v2](https://jdr2v.github.io/portfolio/)** | Bilingual personal portfolio with GSAP animations | React · GSAP · Vite | [→ Live](#) |
-| ✏️ **[Drawing Idea Generator](https://github.com/JdR2V/Drawing-Idea-Generator)** | Random prompts for artists and illustrators | JavaScript | [→ Live](#) |
+| ✏️ **[Drawing Idea Generator](https://github.com/JdR2V/drawing-idea-generator-v2)** | Random prompts for artists and illustrators | JavaScript | [→ Live](https://jdr2v.github.io/drawing-idea-generator-v2/) |
 
-> 🚧 **Currently building:** SvelteKit portfolio (Steel palette, GSAP) · GameLog full-stack app
+> 🚧 **Currently building:** ???
 
 ---
 
