@@ -88,11 +88,12 @@ Today I build **full-stack web applications**. I write secure code by default (c
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
+| **[Signal Drop](https://github.com/JdR2V/signal-drop)** | A Zero-Knowledge app for encrypting one time use messages | React · Next.Js · PostgreSQL | [→ Live](https://signal-drop-blush.vercel.app) |
 | 🎨 **[Color Palette Generator](https://github.com/JdR2V/color-palette-generator)** | Generate, save and export color palettes · EN/ES | React · Vite · CSS | [→ Live](https://jdr2v.github.io/color-palette-generator) |
-| 🌐 **[Portfolio v2](https://jdr2v.github.io/portfolio/)** | Bilingual personal portfolio with GSAP animations | React · GSAP · Vite | [→ Live](#) |
+| 🌐 **[Portfolio v2](https://github.com/JdR2V/portfolio)** | Bilingual personal portfolio with GSAP animations | React · GSAP · Vite | [→ Live](https://jdr2v.github.io/portfolio/) |
 | ✏️ **[Drawing Idea Generator](https://github.com/JdR2V/drawing-idea-generator-v2)** | Random prompts for artists and illustrators | JavaScript | [→ Live](https://jdr2v.github.io/drawing-idea-generator-v2/) |
 
-> 🚧 **Currently building:** ???
+> 🚧 **Currently building:** A blog made with Astro
 
 ---
 
@@ -118,20 +119,20 @@ Today I build **full-stack web applications**. I write secure code by default (c
 ## Currently learning
 
 ```
-SvelteKit + TypeScript  ████████████░░░░  learning
-Node.js + Express       ████████░░░░░░░░  in progress
+SvelteKit + TypeScript  ██████████░░░░░░  learning
+Node.js + Express       █████████░░░░░░░  in progress
 PostgreSQL              ██████░░░░░░░░░░  in progress
-Three.js                ████░░░░░░░░░░░░  exploring
-Docker                  ███░░░░░░░░░░░░░  next up
+Astrp                   ██████░░░░░░░░░░  exploring
+Docker                  ████░░░░░░░░░░░░  next up
 ```
 
 ---
 
 ## A bit more
 
-Outside of code I'm into game development (still ship small games on itch.io), digital art,
+Outside of code I'm into game development (I really enjoy pariticipating in Game jams), pixel art,
 and lately I've been researching AI-powered fraud and how to teach people to protect themselves
-from it — something I'm turning into a side project.
+from it.
 
 I write in both **Spanish and English** and am comfortable in fully remote, async-first teams.
 
