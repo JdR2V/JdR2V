@@ -119,11 +119,12 @@ Today I build **full-stack web applications**. I write secure code by default (c
 ## Currently learning
 
 ```
-SvelteKit + TypeScript  ██████████░░░░░░  learning
-Node.js + Express       █████████░░░░░░░  in progress
+SvelteKit + TypeScript  ██████████░░░░░░  in progress
+Node.js + Express       ███████████░░░░░  in progress
 PostgreSQL              ██████░░░░░░░░░░  in progress
-Astrp                   ██████░░░░░░░░░░  exploring
-Docker                  ████░░░░░░░░░░░░  next up
+Astro                   ██████░░░░░░░░░░  exploring
+Docker                  █░░░░░░░░░░░░░░░  next up
+Rust                    █░░░░░░░░░░░░░░░  next up
 ```
 
 ---
