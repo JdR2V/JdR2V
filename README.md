@@ -90,30 +90,11 @@ Today I build **full-stack web applications**. I write secure code by default (c
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | **[Signal Drop](https://github.com/JdR2V/signal-drop)** | A Zero-Knowledge app for encrypting one time use messages | React · Next.Js · PostgreSQL | [→ Live](https://signal-drop-blush.vercel.app) |
-| 🎨 **[Color Palette Generator](https://github.com/JdR2V/color-palette-generator)** | Generate, save and export color palettes · EN/ES | React · Vite · CSS | [→ Live](https://jdr2v.github.io/color-palette-generator) |
-| 🌐 **[Portfolio v2](https://github.com/JdR2V/portfolio)** | Bilingual personal portfolio with GSAP animations | React · GSAP · Vite | [→ Live](https://jdr2v.github.io/portfolio/) |
-| ✏️ **[Drawing Idea Generator](https://github.com/JdR2V/drawing-idea-generator-v2)** | Random prompts for artists and illustrators | JavaScript | [→ Live](https://jdr2v.github.io/drawing-idea-generator-v2/) |
+| **[Color Palette Generator](https://github.com/JdR2V/color-palette-generator)** | Generate, save and export color palettes · EN/ES | React · Vite · CSS | [→ Live](https://jdr2v.github.io/color-palette-generator) |
+| **[Portfolio v2](https://github.com/JdR2V/portfolio)** | Bilingual personal portfolio with GSAP animations | React · GSAP · Vite | [→ Live](https://jdr2v.github.io/portfolio/) |
+| **[Drawing Idea Generator](https://github.com/JdR2V/drawing-idea-generator-v2)** | Random prompts for artists and illustrators | JavaScript | [→ Live](https://jdr2v.github.io/drawing-idea-generator-v2/) |
 
 > 🚧 **Currently building:** A blog made with Astro
-
----
-
-## GitHub stats
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JdR2V&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=60a5fa&icon_color=60a5fa&text_color=f0eeea&ring_color=60a5fa"
-    height="160"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JdR2V&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=60a5fa&text_color=f0eeea&langs_count=6"
-    height="160"
-    alt="Top languages"
-  />
-
-</div>
 
 ---
 
