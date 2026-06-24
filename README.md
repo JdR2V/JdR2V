@@ -93,6 +93,8 @@ Today I build **full-stack web applications**. I write secure code by default (c
 | **[Color Palette Generator](https://github.com/JdR2V/color-palette-generator)** | Generate, save and export color palettes · EN/ES | React · Vite · CSS | [→ Live](https://jdr2v.github.io/color-palette-generator) |
 | **[Portfolio v2](https://github.com/JdR2V/portfolio)** | Bilingual personal portfolio with GSAP animations | React · GSAP · Vite | [→ Live](https://jdr2v.github.io/portfolio/) |
 | **[Drawing Idea Generator](https://github.com/JdR2V/drawing-idea-generator-v2)** | Random prompts for artists and illustrators | JavaScript | [→ Live](https://jdr2v.github.io/drawing-idea-generator-v2/) |
+| **[QR Code Makerz](https://github.com/JdR2V/qr-code-makerz)** | Little QR Maker out of a link, it can be customized. | TypeScript | [→ Live](https://qr-code-makerz.netlify.app) |
+
 
 > 🚧 **Currently building:** A blog made with Astro
 
